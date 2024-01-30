@@ -35,6 +35,7 @@ export class UsersService {
     if (!passwordIsValid) {
       throw new UnauthorizedException('Credentials are not valid.');
     }
+    delete user.password;
     return user;
   }
 
