@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "nestjs",
+    "pino",
+    "sleepr"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
